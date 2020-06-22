@@ -1,0 +1,578 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e2ee7531-89b1-44cc-9e6f-f01ed08f5297" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../KafkaSchemaRegistryPOCConsumer/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../KafkaSchemaRegistryPOCConsumer/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../KafkaSchemaRegistryPOCConsumer/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../KafkaSchemaRegistryPOCConsumer/.idea/sbt.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../KafkaSchemaRegistryPOCConsumer/.idea/thriftCompiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../KafkaSchemaRegistryPOCConsumer/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../KafkaSchemaRegistryPOCConsumer/build.sbt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../KafkaSchemaRegistryPOCConsumer/project/build.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../KafkaSchemaRegistryPOCConsumer/project/target/config-classes/$537e025cbeb472842c20$.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../KafkaSchemaRegistryPOCConsumer/project/target/config-classes/$537e025cbeb472842c20.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../KafkaSchemaRegistryPOCConsumer/project/target/config-classes/$537e025cbeb472842c20.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../KafkaSchemaRegistryPOCConsumer/project/target/config-classes/$7d46dfc4474db890432f$.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../KafkaSchemaRegistryPOCConsumer/project/target/config-classes/$7d46dfc4474db890432f.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../KafkaSchemaRegistryPOCConsumer/project/target/config-classes/$7d46dfc4474db890432f.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../KafkaSchemaRegistryPOCConsumer/project/target/config-classes/$90fceb7e6d95e4127f5f$.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../KafkaSchemaRegistryPOCConsumer/project/target/config-classes/$90fceb7e6d95e4127f5f.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../KafkaSchemaRegistryPOCConsumer/project/target/config-classes/$90fceb7e6d95e4127f5f.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../KafkaSchemaRegistryPOCConsumer/project/target/config-classes/$95186f0d65182272f546$.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../KafkaSchemaRegistryPOCConsumer/project/target/config-classes/$95186f0d65182272f546.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../KafkaSchemaRegistryPOCConsumer/project/target/config-classes/$95186f0d65182272f546.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../KafkaSchemaRegistryPOCConsumer/project/target/config-classes/$b7208108fa392b4ea7eb$.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../KafkaSchemaRegistryPOCConsumer/project/target/config-classes/$b7208108fa392b4ea7eb.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../KafkaSchemaRegistryPOCConsumer/project/target/config-classes/$b7208108fa392b4ea7eb.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../KafkaSchemaRegistryPOCConsumer/project/target/config-classes/$f0755fdcb40db5755612$.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../KafkaSchemaRegistryPOCConsumer/project/target/config-classes/$f0755fdcb40db5755612.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../KafkaSchemaRegistryPOCConsumer/project/target/config-classes/$f0755fdcb40db5755612.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../KafkaSchemaRegistryPOCConsumer/project/target/scala-2.12/sbt-1.0/update/update_cache_2.12/inputs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../KafkaSchemaRegistryPOCConsumer/project/target/scala-2.12/sbt-1.0/update/update_cache_2.12/output" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../KafkaSchemaRegistryPOCConsumer/project/target/streams/_global/_global/_global/streams/out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../KafkaSchemaRegistryPOCConsumer/project/target/streams/_global/_global/csrLogger/_global/streams/out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../KafkaSchemaRegistryPOCConsumer/project/target/streams/_global/csrConfiguration/_global/streams/out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../KafkaSchemaRegistryPOCConsumer/project/target/streams/_global/csrProject/_global/streams/out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../KafkaSchemaRegistryPOCConsumer/project/target/streams/_global/dependencyPositions/_global/streams/update_cache_2.12/input_dsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../KafkaSchemaRegistryPOCConsumer/project/target/streams/_global/dependencyPositions/_global/streams/update_cache_2.12/output_dsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../KafkaSchemaRegistryPOCConsumer/project/target/streams/_global/ivyConfiguration/_global/streams/out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../KafkaSchemaRegistryPOCConsumer/project/target/streams/_global/ivySbt/_global/streams/out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../KafkaSchemaRegistryPOCConsumer/project/target/streams/_global/moduleSettings/_global/streams/out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../KafkaSchemaRegistryPOCConsumer/project/target/streams/_global/projectDescriptors/_global/streams/out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../KafkaSchemaRegistryPOCConsumer/project/target/streams/_global/scalaCompilerBridgeScope/_global/streams/out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../KafkaSchemaRegistryPOCConsumer/project/target/streams/_global/update/_global/streams/out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../KafkaSchemaRegistryPOCConsumer/project/target/streams/compile/_global/_global/compileBinaryFileInputs/previous" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../KafkaSchemaRegistryPOCConsumer/project/target/streams/compile/_global/_global/compileOutputs/previous" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../KafkaSchemaRegistryPOCConsumer/project/target/streams/compile/_global/_global/compileSourceFileInputs/previous" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../KafkaSchemaRegistryPOCConsumer/project/target/streams/compile/_global/_global/dependencyClasspathFiles/previous" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../KafkaSchemaRegistryPOCConsumer/project/target/streams/compile/_global/_global/discoveredMainClasses/data" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../KafkaSchemaRegistryPOCConsumer/project/target/streams/compile/_global/_global/managedSourcePaths/previous" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../KafkaSchemaRegistryPOCConsumer/project/target/streams/compile/compile/_global/streams/out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../KafkaSchemaRegistryPOCConsumer/project/target/streams/compile/compileIncremental/_global/streams/export" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../KafkaSchemaRegistryPOCConsumer/project/target/streams/compile/compileIncremental/_global/streams/out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../KafkaSchemaRegistryPOCConsumer/project/target/streams/compile/copyResources/_global/streams/copy-resources" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../KafkaSchemaRegistryPOCConsumer/project/target/streams/compile/copyResources/_global/streams/out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../KafkaSchemaRegistryPOCConsumer/project/target/streams/compile/dependencyClasspath/_global/streams/export" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../KafkaSchemaRegistryPOCConsumer/project/target/streams/compile/exportedProducts/_global/streams/export" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../KafkaSchemaRegistryPOCConsumer/project/target/streams/compile/externalDependencyClasspath/_global/streams/export" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../KafkaSchemaRegistryPOCConsumer/project/target/streams/compile/internalDependencyClasspath/_global/streams/export" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../KafkaSchemaRegistryPOCConsumer/project/target/streams/compile/managedClasspath/_global/streams/export" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../KafkaSchemaRegistryPOCConsumer/project/target/streams/compile/unmanagedClasspath/_global/streams/export" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../KafkaSchemaRegistryPOCConsumer/project/target/streams/compile/unmanagedJars/_global/streams/export" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../KafkaSchemaRegistryPOCConsumer/project/target/streams/runtime/dependencyClasspath/_global/streams/export" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../KafkaSchemaRegistryPOCConsumer/project/target/streams/runtime/exportedProducts/_global/streams/export" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../KafkaSchemaRegistryPOCConsumer/project/target/streams/runtime/externalDependencyClasspath/_global/streams/export" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../KafkaSchemaRegistryPOCConsumer/project/target/streams/runtime/fullClasspath/_global/streams/export" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../KafkaSchemaRegistryPOCConsumer/project/target/streams/runtime/internalDependencyClasspath/_global/streams/export" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../KafkaSchemaRegistryPOCConsumer/project/target/streams/runtime/managedClasspath/_global/streams/export" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../KafkaSchemaRegistryPOCConsumer/project/target/streams/runtime/unmanagedClasspath/_global/streams/export" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../KafkaSchemaRegistryPOCConsumer/project/target/streams/runtime/unmanagedJars/_global/streams/export" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../KafkaSchemaRegistryPOCConsumer/src/main/scala/Runner.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../KafkaSchemaRegistryPOCConsumer/src/main/scala/User.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../KafkaSchemaRegistryPOCConsumer/src/main/scala/WeekDay.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../KafkaSchemaRegistryPOCConsumer/target/.history" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../KafkaSchemaRegistryPOCConsumer/target/scala-2.12/classes/Runner$$anon$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../KafkaSchemaRegistryPOCConsumer/target/scala-2.12/classes/Runner$$anon$2$$typecreator5$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../KafkaSchemaRegistryPOCConsumer/target/scala-2.12/classes/Runner$$anon$2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../KafkaSchemaRegistryPOCConsumer/target/scala-2.12/classes/Runner$$anon$3$$typecreator13$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../KafkaSchemaRegistryPOCConsumer/target/scala-2.12/classes/Runner$$anon$3.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../KafkaSchemaRegistryPOCConsumer/target/scala-2.12/classes/Runner$.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../KafkaSchemaRegistryPOCConsumer/target/scala-2.12/classes/Runner.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../KafkaSchemaRegistryPOCConsumer/target/scala-2.12/classes/User$$anon$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../KafkaSchemaRegistryPOCConsumer/target/scala-2.12/classes/User$$anon$2$$typecreator5$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../KafkaSchemaRegistryPOCConsumer/target/scala-2.12/classes/User$$anon$2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../KafkaSchemaRegistryPOCConsumer/target/scala-2.12/classes/User$$anon$3$$typecreator11$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../KafkaSchemaRegistryPOCConsumer/target/scala-2.12/classes/User$$anon$3.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../KafkaSchemaRegistryPOCConsumer/target/scala-2.12/classes/User$.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../KafkaSchemaRegistryPOCConsumer/target/scala-2.12/classes/User.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../KafkaSchemaRegistryPOCConsumer/target/scala-2.12/classes/WeekDay$.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../KafkaSchemaRegistryPOCConsumer/target/scala-2.12/classes/WeekDay.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../KafkaSchemaRegistryPOCConsumer/target/scala-2.12/update/update_cache_2.12/inputs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../KafkaSchemaRegistryPOCConsumer/target/scala-2.12/update/update_cache_2.12/output" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../KafkaSchemaRegistryPOCConsumer/target/scala-2.13/update/update_cache_2.13/inputs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../KafkaSchemaRegistryPOCConsumer/target/scala-2.13/update/update_cache_2.13/output" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../KafkaSchemaRegistryPOCConsumer/target/streams/_global/_global/checkBuildSources/_global/inputFileStamps/previous" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../KafkaSchemaRegistryPOCConsumer/target/streams/_global/_global/checkBuildSources/_global/streams/out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../KafkaSchemaRegistryPOCConsumer/target/streams/_global/_global/csrLogger/_global/streams/out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../KafkaSchemaRegistryPOCConsumer/target/streams/_global/_global/dumpStructure/_global/streams/out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../KafkaSchemaRegistryPOCConsumer/target/streams/_global/csrConfiguration/_global/streams/out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../KafkaSchemaRegistryPOCConsumer/target/streams/_global/csrProject/_global/streams/out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../KafkaSchemaRegistryPOCConsumer/target/streams/_global/dependencyPositions/_global/streams/update_cache_2.12/input_dsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../KafkaSchemaRegistryPOCConsumer/target/streams/_global/dependencyPositions/_global/streams/update_cache_2.12/output_dsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../KafkaSchemaRegistryPOCConsumer/target/streams/_global/dependencyPositions/_global/streams/update_cache_2.13/input_dsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../KafkaSchemaRegistryPOCConsumer/target/streams/_global/dependencyPositions/_global/streams/update_cache_2.13/output_dsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../KafkaSchemaRegistryPOCConsumer/target/streams/_global/ivyConfiguration/_global/streams/out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../KafkaSchemaRegistryPOCConsumer/target/streams/_global/ivySbt/_global/streams/out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../KafkaSchemaRegistryPOCConsumer/target/streams/_global/moduleSettings/_global/streams/out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../KafkaSchemaRegistryPOCConsumer/target/streams/_global/projectDescriptors/_global/streams/out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../KafkaSchemaRegistryPOCConsumer/target/streams/_global/ssExtractDependencies/_global/streams/out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../KafkaSchemaRegistryPOCConsumer/target/streams/_global/update/_global/streams/out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../KafkaSchemaRegistryPOCConsumer/target/streams/_global/updateClassifiers/_global/streams/out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../KafkaSchemaRegistryPOCConsumer/target/streams/_global/updateClassifiers/_global/streams/update_cache_2.12/inputs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../KafkaSchemaRegistryPOCConsumer/target/streams/_global/updateClassifiers/_global/streams/update_cache_2.12/output" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../KafkaSchemaRegistryPOCConsumer/target/streams/_global/updateClassifiers/_global/streams/update_cache_2.13/inputs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../KafkaSchemaRegistryPOCConsumer/target/streams/_global/updateClassifiers/_global/streams/update_cache_2.13/output" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../KafkaSchemaRegistryPOCConsumer/target/streams/compile/externalDependencyClasspath/_global/streams/export" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../KafkaSchemaRegistryPOCConsumer/target/streams/compile/managedClasspath/_global/streams/export" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../KafkaSchemaRegistryPOCConsumer/target/streams/compile/unmanagedClasspath/_global/streams/export" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../KafkaSchemaRegistryPOCConsumer/target/streams/compile/unmanagedJars/_global/streams/export" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../KafkaSchemaRegistryPOCConsumer/target/streams/runtime/externalDependencyClasspath/_global/streams/export" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../KafkaSchemaRegistryPOCConsumer/target/streams/runtime/managedClasspath/_global/streams/export" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../KafkaSchemaRegistryPOCConsumer/target/streams/runtime/unmanagedClasspath/_global/streams/export" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../KafkaSchemaRegistryPOCConsumer/target/streams/runtime/unmanagedJars/_global/streams/export" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../KafkaSchemaRegistryPOCConsumer/target/streams/test/externalDependencyClasspath/_global/streams/export" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../KafkaSchemaRegistryPOCConsumer/target/streams/test/managedClasspath/_global/streams/export" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../KafkaSchemaRegistryPOCConsumer/target/streams/test/unmanagedClasspath/_global/streams/export" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../KafkaSchemaRegistryPOCConsumer/target/streams/test/unmanagedJars/_global/streams/export" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/sbt__com_chuusai_shapeless_2_12_2_3_3_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/sbt__com_fasterxml_classmate_1_3_4_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/sbt__com_fasterxml_jackson_core_jackson_annotations_2_10_2_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/sbt__com_fasterxml_jackson_core_jackson_core_2_10_2_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/sbt__com_fasterxml_jackson_core_jackson_databind_2_10_2_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/sbt__com_fasterxml_jackson_dataformat_jackson_dataformat_yaml_2_4_5_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/sbt__com_fasterxml_jackson_datatype_jackson_datatype_joda_2_4_5_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/sbt__com_github_luben_zstd_jni_1_4_4_7_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/sbt__com_google_guava_guava_18_0_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/sbt__com_lihaoyi_ammonite_ops_2_12_1_6_7_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/sbt__com_lihaoyi_geny_2_12_0_1_6_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/sbt__com_lihaoyi_os_lib_2_12_0_2_9_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/sbt__com_sksamuel_avro4s_avro4s_core_2_12_2_0_2_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/sbt__com_sksamuel_avro4s_avro4s_macros_2_12_2_0_2_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/sbt__io_confluent_common_config_5_5_0_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/sbt__io_confluent_common_utils_5_5_0_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/sbt__io_confluent_kafka_avro_serializer_5_5_0_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/sbt__io_confluent_kafka_schema_registry_client_5_5_0_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/sbt__io_confluent_kafka_schema_serializer_5_5_0_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/sbt__io_swagger_swagger_annotations_1_5_22_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/sbt__io_swagger_swagger_core_1_5_3_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/sbt__io_swagger_swagger_models_1_5_3_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/sbt__jakarta_annotation_jakarta_annotation_api_1_3_5_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/sbt__jakarta_el_jakarta_el_api_3_0_3_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/sbt__jakarta_validation_jakarta_validation_api_2_0_2_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/sbt__jakarta_ws_rs_jakarta_ws_rs_api_2_1_6_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/sbt__joda_time_joda_time_2_2_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/sbt__org_apache_avro_avro_1_9_2_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/sbt__org_apache_commons_commons_compress_1_19_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/sbt__org_apache_commons_commons_lang3_3_2_1_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/sbt__org_apache_kafka_kafka_clients_5_5_0_ccs_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/sbt__org_glassfish_hk2_external_jakarta_inject_2_6_1_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/sbt__org_glassfish_hk2_osgi_resource_locator_1_0_3_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/sbt__org_glassfish_jakarta_el_3_0_2_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/sbt__org_glassfish_jersey_core_jersey_client_2_30_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/sbt__org_glassfish_jersey_core_jersey_common_2_30_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/sbt__org_glassfish_jersey_core_jersey_server_2_30_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/sbt__org_glassfish_jersey_ext_jersey_bean_validation_2_30_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/sbt__org_glassfish_jersey_media_jersey_media_jaxb_2_30_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/sbt__org_hibernate_validator_hibernate_validator_6_0_17_Final_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/sbt__org_jboss_logging_jboss_logging_3_3_2_Final_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/sbt__org_lz4_lz4_java_1_7_1_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/sbt__org_scala_lang_modules_scala_collection_compat_2_12_0_3_0_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/sbt__org_scala_lang_scala_library_2_12_9_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/sbt__org_scala_lang_scala_reflect_2_12_9_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/sbt__org_slf4j_slf4j_api_1_7_30_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/sbt__org_typelevel_macro_compat_2_12_1_1_1_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/sbt__org_xerial_snappy_snappy_java_1_1_7_3_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/sbt__org_yaml_snakeyaml_1_12_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/KafkaSchemaRegistryPOC-build.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/KafkaSchemaRegistryPOC.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sbt.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/scala_compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/thriftCompiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build.sbt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/build.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/target/config-classes/$0abb3c67d5e330a7fb22$.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/target/config-classes/$0abb3c67d5e330a7fb22.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/target/config-classes/$0abb3c67d5e330a7fb22.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/target/config-classes/$6cd33250f90194fbaa97$.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/target/config-classes/$6cd33250f90194fbaa97.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/target/config-classes/$6cd33250f90194fbaa97.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/target/config-classes/$79f60ae18f682f34a558$.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/target/config-classes/$79f60ae18f682f34a558.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/target/config-classes/$79f60ae18f682f34a558.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/target/config-classes/$7cd73dec098f703001a4$.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/target/config-classes/$7cd73dec098f703001a4.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/target/config-classes/$7cd73dec098f703001a4.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/target/config-classes/$a63f5cd333a5ba229828$.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/target/config-classes/$a63f5cd333a5ba229828.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/target/config-classes/$a63f5cd333a5ba229828.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/target/config-classes/$fefddd65a2b03e18cd05$.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/target/config-classes/$fefddd65a2b03e18cd05.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/target/config-classes/$fefddd65a2b03e18cd05.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/target/scala-2.12/sbt-1.0/update/update_cache_2.12/inputs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/target/scala-2.12/sbt-1.0/update/update_cache_2.12/output" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/target/streams/_global/_global/_global/streams/out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/target/streams/_global/_global/csrLogger/_global/streams/out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/target/streams/_global/csrConfiguration/_global/streams/out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/target/streams/_global/csrProject/_global/streams/out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/target/streams/_global/dependencyPositions/_global/streams/update_cache_2.12/input_dsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/target/streams/_global/dependencyPositions/_global/streams/update_cache_2.12/output_dsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/target/streams/_global/ivyConfiguration/_global/streams/out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/target/streams/_global/ivySbt/_global/streams/out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/target/streams/_global/moduleSettings/_global/streams/out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/target/streams/_global/projectDescriptors/_global/streams/out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/target/streams/_global/scalaCompilerBridgeScope/_global/streams/out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/target/streams/_global/update/_global/streams/out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/target/streams/compile/_global/_global/compileBinaryFileInputs/previous" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/target/streams/compile/_global/_global/compileOutputs/previous" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/target/streams/compile/_global/_global/compileSourceFileInputs/previous" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/target/streams/compile/_global/_global/dependencyClasspathFiles/previous" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/target/streams/compile/_global/_global/discoveredMainClasses/data" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/target/streams/compile/_global/_global/managedSourcePaths/previous" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/target/streams/compile/compile/_global/streams/out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/target/streams/compile/compileIncremental/_global/streams/export" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/target/streams/compile/compileIncremental/_global/streams/out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/target/streams/compile/copyResources/_global/streams/copy-resources" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/target/streams/compile/copyResources/_global/streams/out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/target/streams/compile/dependencyClasspath/_global/streams/export" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/target/streams/compile/exportedProducts/_global/streams/export" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/target/streams/compile/externalDependencyClasspath/_global/streams/export" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/target/streams/compile/internalDependencyClasspath/_global/streams/export" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/target/streams/compile/managedClasspath/_global/streams/export" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/target/streams/compile/unmanagedClasspath/_global/streams/export" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/target/streams/compile/unmanagedJars/_global/streams/export" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/target/streams/runtime/dependencyClasspath/_global/streams/export" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/target/streams/runtime/exportedProducts/_global/streams/export" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/target/streams/runtime/externalDependencyClasspath/_global/streams/export" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/target/streams/runtime/fullClasspath/_global/streams/export" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/target/streams/runtime/internalDependencyClasspath/_global/streams/export" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/target/streams/runtime/managedClasspath/_global/streams/export" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/target/streams/runtime/unmanagedClasspath/_global/streams/export" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/target/streams/runtime/unmanagedJars/_global/streams/export" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/AvroConverter.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/Runner.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/User.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/WeekDay.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/.history" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/scala-2.12/classes/AvroConverter$$anon$1$$typecreator7$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/scala-2.12/classes/AvroConverter$$anon$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/scala-2.12/classes/AvroConverter$.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/scala-2.12/classes/AvroConverter.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/scala-2.12/classes/Runner$.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/scala-2.12/classes/Runner.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/scala-2.12/classes/User$$anon$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/scala-2.12/classes/User$$anon$2$$typecreator5$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/scala-2.12/classes/User$$anon$2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/scala-2.12/classes/User$$anon$3$$typecreator11$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/scala-2.12/classes/User$$anon$3$$typecreator13$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/scala-2.12/classes/User$$anon$3.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/scala-2.12/classes/User$.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/scala-2.12/classes/User.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/scala-2.12/classes/WeekDay$.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/scala-2.12/classes/WeekDay.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/scala-2.12/kafkaschemaregistrypoc_2.12-0.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/scala-2.12/update/update_cache_2.12/inputs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/scala-2.12/update/update_cache_2.12/output" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/streams/_global/_global/_global/streams/out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/streams/_global/_global/checkBuildSources/_global/inputFileStamps/previous" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/streams/_global/_global/checkBuildSources/_global/streams/out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/streams/_global/_global/csrLogger/_global/streams/out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/streams/_global/_global/dumpStructure/_global/streams/out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/streams/_global/csrConfiguration/_global/streams/out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/streams/_global/csrProject/_global/streams/out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/streams/_global/dependencyPositions/_global/streams/update_cache_2.12/input_dsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/streams/_global/dependencyPositions/_global/streams/update_cache_2.12/output_dsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/streams/_global/ivyConfiguration/_global/streams/out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/streams/_global/ivySbt/_global/streams/out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/streams/_global/moduleSettings/_global/streams/out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/streams/_global/projectDescriptors/_global/streams/out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/streams/_global/scalaCompilerBridgeScope/_global/streams/out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/streams/_global/ssExtractDependencies/_global/streams/out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/streams/_global/update/_global/streams/out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/streams/_global/updateClassifiers/_global/streams/out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/streams/_global/updateClassifiers/_global/streams/update_cache_2.12/inputs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/streams/_global/updateClassifiers/_global/streams/update_cache_2.12/output" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/streams/compile/_global/_global/compileBinaryFileInputs/previous" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/streams/compile/_global/_global/compileOutputs/previous" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/streams/compile/_global/_global/compileSourceFileInputs/previous" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/streams/compile/_global/_global/dependencyClasspathFiles/previous" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/streams/compile/_global/_global/discoveredMainClasses/data" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/streams/compile/_global/_global/managedSourcePaths/previous" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/streams/compile/compile/_global/streams/out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/streams/compile/compileIncSetup/_global/streams/inc_compile_2.12.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/streams/compile/compileIncremental/_global/streams/export" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/streams/compile/compileIncremental/_global/streams/out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/streams/compile/copyResources/_global/streams/copy-resources" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/streams/compile/copyResources/_global/streams/out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/streams/compile/dependencyClasspath/_global/streams/export" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/streams/compile/exportedProductJars/_global/streams/export" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/streams/compile/exportedProducts/_global/streams/export" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/streams/compile/externalDependencyClasspath/_global/streams/export" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/streams/compile/internalDependencyClasspath/_global/streams/export" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/streams/compile/mainClass/_global/streams/out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/streams/compile/managedClasspath/_global/streams/export" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/streams/compile/packageBin/_global/streams/inputs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/streams/compile/packageBin/_global/streams/out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/streams/compile/packageBin/_global/streams/output" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/streams/compile/unmanagedClasspath/_global/streams/export" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/streams/compile/unmanagedJars/_global/streams/export" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/streams/runtime/dependencyClasspathAsJars/_global/streams/export" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/streams/runtime/exportedProductJars/_global/streams/export" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/streams/runtime/externalDependencyClasspath/_global/streams/export" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/streams/runtime/fullClasspathAsJars/_global/streams/export" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/streams/runtime/internalDependencyAsJars/_global/streams/export" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/streams/runtime/managedClasspath/_global/streams/export" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/streams/runtime/unmanagedClasspath/_global/streams/export" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/streams/runtime/unmanagedJars/_global/streams/export" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/streams/test/externalDependencyClasspath/_global/streams/export" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/streams/test/managedClasspath/_global/streams/export" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/streams/test/unmanagedClasspath/_global/streams/export" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/streams/test/unmanagedJars/_global/streams/export" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="ComposerSettings">
+    <execution>
+      <executable />
+    </execution>
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$/../KafkaSchemaRegistryPOCConsumer">
+      <ProjectState />
+    </projectState>
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="SBT">
+      <state>
+        <projects_view>
+          <tree_state>
+            <expand />
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1dUgGOUwUxCEdnrHnBKNhkgkRlh" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="autoscrollFromSource" value="true" />
+    <option name="autoscrollToSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="go.import.settings.migrated" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.24926251" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Runner" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="Runner" />
+      <module name="KafkaSchemaRegistryPOC" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Runner" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SbtLocalSettings">
+    <option name="availableProjects">
+      <map>
+        <entry>
+          <key>
+            <ExternalProjectPojo>
+              <option name="name" value="KafkaSchemaRegistryPOC" />
+              <option name="path" value="$PROJECT_DIR$" />
+            </ExternalProjectPojo>
+          </key>
+          <value>
+            <list>
+              <ExternalProjectPojo>
+                <option name="name" value="kafkaschemaregistrypoc [file:/Users/strygul/Projects/sandbox/KafkaSchemaRegistryPOC/]" />
+                <option name="path" value="$PROJECT_DIR$" />
+              </ExternalProjectPojo>
+              <ExternalProjectPojo>
+                <option name="name" value="KafkaSchemaRegistryPOC-build" />
+                <option name="path" value="$PROJECT_DIR$/project" />
+              </ExternalProjectPojo>
+            </list>
+          </value>
+        </entry>
+        <entry>
+          <key>
+            <ExternalProjectPojo>
+              <option name="name" value="KafkaSchemaRegistryPOCConsumer" />
+              <option name="path" value="$PROJECT_DIR$/../KafkaSchemaRegistryPOCConsumer" />
+            </ExternalProjectPojo>
+          </key>
+          <value>
+            <list>
+              <ExternalProjectPojo>
+                <option name="name" value="kafkaschemaregistrypocconsumer [file:/Users/strygul/Projects/sandbox/kafka-pipeline/KafkaSchemaRegistryPOCConsumer/]" />
+                <option name="path" value="$PROJECT_DIR$/../KafkaSchemaRegistryPOCConsumer" />
+              </ExternalProjectPojo>
+              <ExternalProjectPojo>
+                <option name="name" value="KafkaSchemaRegistryPOCConsumer-build" />
+                <option name="path" value="$PROJECT_DIR$/../KafkaSchemaRegistryPOCConsumer/project" />
+              </ExternalProjectPojo>
+            </list>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="modificationStamps">
+      <map>
+        <entry key="$PROJECT_DIR$/../KafkaSchemaRegistryPOCConsumer/build.sbt" value="3019376823" />
+        <entry key="$PROJECT_DIR$/../KafkaSchemaRegistryPOCConsumer/project/build.properties" value="1916534729" />
+        <entry key="$PROJECT_DIR$" value="3185063273421" />
+        <entry key="$PROJECT_DIR$/build.sbt" value="1184956135" />
+        <entry key="$PROJECT_DIR$/project/build.properties" value="1916534729" />
+      </map>
+    </option>
+    <option name="projectSyncType">
+      <map>
+        <entry key="$PROJECT_DIR$/../../dixa/agent-event-aggregator" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../dixa/domain-event-saver" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../dixa/exports" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../dixa/offer-service" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../dixa/orgservice" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../dixa/protocols" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../dixa/raw-events-to-s3" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../dixa/search" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../dixa/segment-exporter" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../dixa/statistics-service" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../dixa/tags" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../dixa/telephony" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../dixa/webhooks-v2-dispatcher" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../dixa/webhooks-v2-processing" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../dixa/widget-service" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$" value="RE_IMPORT" />
+      </map>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e2ee7531-89b1-44cc-9e6f-f01ed08f5297" name="Default Changelist" comment="" />
+      <created>1592484988582</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1592484988582</updated>
+      <workItem from="1592484990045" duration="4168000" />
+      <workItem from="1592551255306" duration="1512000" />
+      <workItem from="1592557186456" duration="13335000" />
+      <workItem from="1592826352116" duration="30000" />
+      <workItem from="1592826541712" duration="11000" />
+      <workItem from="1592826555995" duration="236000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="81" y="127" width="1039" height="669" key="#Project_Structure" timestamp="1592826694555">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state x="81" y="127" width="1039" height="669" key="#Project_Structure/0.23.1440.877@0.23.1440.877" timestamp="1592826694555" />
+    <state x="458" y="234" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog" timestamp="1592577955127">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state x="458" y="234" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog/0.23.1440.877@0.23.1440.877" timestamp="1592577955127" />
+    <state x="464" y="383" key="#com.intellij.framework.addSupport.AddSupportForSingleFrameworkDialog" timestamp="1592485471737">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state x="464" y="383" key="#com.intellij.framework.addSupport.AddSupportForSingleFrameworkDialog/0.23.1440.877@0.23.1440.877" timestamp="1592485471737" />
+    <state x="348" y="156" key="#com.intellij.ide.fileTemplates.ui.ConfigureTemplatesDialog" timestamp="1592485451978">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state x="348" y="156" key="#com.intellij.ide.fileTemplates.ui.ConfigureTemplatesDialog/0.23.1440.877@0.23.1440.877" timestamp="1592485451978" />
+    <state x="482" y="310" key="#xdebugger.evaluate" timestamp="1592489821465">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state x="482" y="310" key="#xdebugger.evaluate/0.23.1440.877@0.23.1440.877" timestamp="1592489821465" />
+    <state width="1398" height="260" key="GridCell.Tab.0.bottom" timestamp="1592822555573">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state width="1398" height="260" key="GridCell.Tab.0.bottom/0.23.1440.877@0.23.1440.877" timestamp="1592822555573" />
+    <state width="1398" height="260" key="GridCell.Tab.0.center" timestamp="1592822555572">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state width="1398" height="260" key="GridCell.Tab.0.center/0.23.1440.877@0.23.1440.877" timestamp="1592822555572" />
+    <state width="1398" height="260" key="GridCell.Tab.0.left" timestamp="1592822555569">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state width="1398" height="260" key="GridCell.Tab.0.left/0.23.1440.877@0.23.1440.877" timestamp="1592822555569" />
+    <state width="1398" height="260" key="GridCell.Tab.0.right" timestamp="1592822555572">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state width="1398" height="260" key="GridCell.Tab.0.right/0.23.1440.877@0.23.1440.877" timestamp="1592822555572" />
+    <state width="1398" height="285" key="GridCell.Tab.1.bottom" timestamp="1592548155678">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state width="1398" height="285" key="GridCell.Tab.1.bottom/0.23.1440.877@0.23.1440.877" timestamp="1592548155678" />
+    <state width="1398" height="285" key="GridCell.Tab.1.center" timestamp="1592548155677">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state width="1398" height="285" key="GridCell.Tab.1.center/0.23.1440.877@0.23.1440.877" timestamp="1592548155677" />
+    <state width="1398" height="285" key="GridCell.Tab.1.left" timestamp="1592548155677">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state width="1398" height="285" key="GridCell.Tab.1.left/0.23.1440.877@0.23.1440.877" timestamp="1592548155677" />
+    <state width="1398" height="285" key="GridCell.Tab.1.right" timestamp="1592548155677">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state width="1398" height="285" key="GridCell.Tab.1.right/0.23.1440.877@0.23.1440.877" timestamp="1592548155677" />
+    <state x="349" y="162" width="855" height="598" key="NewModule_or_Project.wizard" timestamp="1592826779044">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state x="349" y="162" width="855" height="598" key="NewModule_or_Project.wizard/0.23.1440.877@0.23.1440.877" timestamp="1592826779044" />
+    <state x="114" y="188" key="new project wizard" timestamp="1592826628977">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state x="114" y="188" key="new project wizard/0.23.1440.877@0.23.1440.877" timestamp="1592826628977" />
+    <state x="385" y="213" width="670" height="676" key="search.everywhere.popup" timestamp="1592821496658">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state x="385" y="213" width="670" height="676" key="search.everywhere.popup/0.23.1440.877@0.23.1440.877" timestamp="1592821496658" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="scala-line">
+          <url>file://$PROJECT_DIR$/src/main/scala/Runner.scala</url>
+          <line>22</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

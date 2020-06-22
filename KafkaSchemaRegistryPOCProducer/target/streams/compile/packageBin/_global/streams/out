@@ -1,0 +1,33 @@
+[0m[[0m[0mdebug[0m] [0m[0mPackaging /Users/strygul/Projects/sandbox/KafkaSchemaRegistryPOC/target/scala-2.12/kafkaschemaregistrypoc_2.12-0.1.jar ...[0m
+[0m[[0m[0mdebug[0m] [0m[0mInput file mappings:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	WeekDay$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/strygul/Projects/sandbox/KafkaSchemaRegistryPOC/target/scala-2.12/classes/WeekDay$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	User$$anon$2$$typecreator5$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/strygul/Projects/sandbox/KafkaSchemaRegistryPOC/target/scala-2.12/classes/User$$anon$2$$typecreator5$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	User$$anon$2.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/strygul/Projects/sandbox/KafkaSchemaRegistryPOC/target/scala-2.12/classes/User$$anon$2.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	AvroConverter$$anon$1$$typecreator7$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/strygul/Projects/sandbox/KafkaSchemaRegistryPOC/target/scala-2.12/classes/AvroConverter$$anon$1$$typecreator7$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	WeekDay.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/strygul/Projects/sandbox/KafkaSchemaRegistryPOC/target/scala-2.12/classes/WeekDay.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	AvroConverter.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/strygul/Projects/sandbox/KafkaSchemaRegistryPOC/target/scala-2.12/classes/AvroConverter.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	AvroConverter$$anon$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/strygul/Projects/sandbox/KafkaSchemaRegistryPOC/target/scala-2.12/classes/AvroConverter$$anon$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	User$$anon$3.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/strygul/Projects/sandbox/KafkaSchemaRegistryPOC/target/scala-2.12/classes/User$$anon$3.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Runner.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/strygul/Projects/sandbox/KafkaSchemaRegistryPOC/target/scala-2.12/classes/Runner.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	User$$anon$3$$typecreator11$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/strygul/Projects/sandbox/KafkaSchemaRegistryPOC/target/scala-2.12/classes/User$$anon$3$$typecreator11$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	User$$anon$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/strygul/Projects/sandbox/KafkaSchemaRegistryPOC/target/scala-2.12/classes/User$$anon$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	User.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/strygul/Projects/sandbox/KafkaSchemaRegistryPOC/target/scala-2.12/classes/User.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	User$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/strygul/Projects/sandbox/KafkaSchemaRegistryPOC/target/scala-2.12/classes/User$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Runner$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/strygul/Projects/sandbox/KafkaSchemaRegistryPOC/target/scala-2.12/classes/Runner$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	AvroConverter$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/strygul/Projects/sandbox/KafkaSchemaRegistryPOC/target/scala-2.12/classes/AvroConverter$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0mDone packaging.[0m

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/KafkaSchemaRegistryPOC.iml" filepath="$PROJECT_DIR$/.idea/modules/KafkaSchemaRegistryPOC.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/KafkaSchemaRegistryPOC-build.iml" filepath="$PROJECT_DIR$/.idea/modules/KafkaSchemaRegistryPOC-build.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../KafkaSchemaRegistryPOCConsumer/.idea/modules/KafkaSchemaRegistryPOCConsumer.iml" filepath="$PROJECT_DIR$/../KafkaSchemaRegistryPOCConsumer/.idea/modules/KafkaSchemaRegistryPOCConsumer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../KafkaSchemaRegistryPOCConsumer/.idea/modules/KafkaSchemaRegistryPOCConsumer-build.iml" filepath="$PROJECT_DIR$/../KafkaSchemaRegistryPOCConsumer/.idea/modules/KafkaSchemaRegistryPOCConsumer-build.iml" />
+    </modules>
+  </component>
+</project>

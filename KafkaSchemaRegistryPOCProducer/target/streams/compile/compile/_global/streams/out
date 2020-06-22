@@ -1,0 +1,11 @@
+[0m[[0m[31merror[0m] [0m[0m/Users/strygul/Projects/sandbox/KafkaSchemaRegistryPOC/src/main/scala/AvroConverter.scala:6:13: could not find implicit value for parameter schemaFor: com.sksamuel.avro4s.SchemaFor[User][0m
+[0m[[0m[31merror[0m] [0m[0m  AvroSchema[User][0m
+[0m[[0m[31merror[0m] [0m[0m            ^[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/strygul/Projects/sandbox/KafkaSchemaRegistryPOC/src/main/scala/Runner.scala:20:22: not enough arguments for method apply: (userId: String, username: String, address: String, name: String, weekday: Weekday)User in object User.[0m
+[0m[[0m[31merror[0m] [0m[0mUnspecified value parameter weekday.[0m
+[0m[[0m[31merror[0m] [0m[0m      val user = User( "12345", "valera_dragon", "Elasr Alfelts Vej 102", "Valera")[0m
+[0m[[0m[31merror[0m] [0m[0m                     ^[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/strygul/Projects/sandbox/KafkaSchemaRegistryPOC/src/main/scala/User.scala:5:50: could not find implicit value for evidence parameter of type com.sksamuel.avro4s.Encoder[User][0m
+[0m[[0m[31merror[0m] [0m[0m  val genericRecord: GenericRecord = RecordFormat[User].to(this)[0m
+[0m[[0m[31merror[0m] [0m[0m                                                 ^[0m
+[0m[[0m[31merror[0m] [0m[0mthree errors found[0m
