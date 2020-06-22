@@ -42,7 +42,7 @@ You can use Kafka console to verify that consumer and producer work as expected:
  bin/kafka-console-producer.sh --broker-list localhost:9092 --topic my_topic
  bin/kafka-console-consumer.sh --bootstrap-server localhost:9092 --topic my_topic --from-beginning
  ```
- ## Gerating Avro files with Avro4s:
+ ## Generating Avro files with Avro4s:
  Run from the producer root:
 
  ```
