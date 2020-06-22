@@ -1,0 +1,33 @@
+
+# IntelliJ
+out/
+*/target/*
+.idea/
+.idea/*
+*.iml
+*.ipr
+
+### Linux ###
+*~
+
+# temporary files which can be created if a process still has a handle open of a deleted file
+.fuse_hidden*
+
+### SBT ###
+dist/*
+target/
+lib_managed/
+src_managed/
+project/boot/
+project/plugins/project/
+.history
+.cache
+.lib/
+
+### Scala ###
+*.class
+*.log
+
+### Generated avro files ###
+avro/
+avro/*
